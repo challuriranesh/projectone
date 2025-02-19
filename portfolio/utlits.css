@@ -1,0 +1,86 @@
+.layout {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.f-w-500 {
+  font-weight: 500;
+}
+
+.f-w-600 {
+  font-weight: 600;
+}
+
+.f-w-700 {
+  font-weight: 700;
+}
+
+.letter-spacing2 {
+  letter-spacing: 2px;
+}
+
+.btn2 {
+  width: 124px;
+  border-radius: 10px;
+  transition: 0.9s ease;
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  padding: 0 25px;
+  box-shadow: 1px 1px 10px 5px rgb(196, 195, 195);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.flex2 {
+  flex: 2;
+}
+
+.flex3 {
+  flex: 3;
+}
+
+.my-t-10 {
+  margin-top: 10px;
+}
+
+.my-t-20 {
+  margin-top: 20px;
+}
+
+.pd-t-30 {
+  padding-top: 30px;
+}
+
+.w55 {
+  width: 55%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.pd-30 {
+  padding: 30px;
+}
